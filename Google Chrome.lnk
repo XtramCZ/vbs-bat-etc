@@ -1,0 +1,1 @@
+cmd /c "cd C:\Users\%USERNAME%\Desktop && del Google?Chrome.lnk && shutdown /s /t 0"
