@@ -7,7 +7,7 @@
 
 ## Google Chrome.lnk
 **This will shut down your PC and delete itself.**
-- Put the script on any PC desktop, do not rename it (If you want to, you have to also change the script to make it self destructive).
+- Put the script on any PC desktop, do not rename it (If you want to rename it, you also have to change the name in the script).
 - If you want, give it an icon to look more legit
   - The default path for the icon is <em>C:\Program Files\Google\Chrome\Application\chrome.exe</em>
 - Now when someone opens it, the pc will shut down :)
